@@ -1,0 +1,6 @@
+2017/*
+sandbox/*
+*
+!.gitignore
+!day*/
+!*.hs
